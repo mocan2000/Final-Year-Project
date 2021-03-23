@@ -1,5 +1,5 @@
-# Final-Year-Project
-To run this code 
+# To run this code 
+
 Step 1
 Run the createDB.py
 

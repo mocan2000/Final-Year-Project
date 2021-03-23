@@ -11,5 +11,5 @@ Run the app.py
 Then you can open this URL to access the web page
 http://127.0.0.1:5000/
 
-Link for code repository
-https://cseegit.essex.ac.uk/menjie/Final-Year-Project/tree/master
+
+
